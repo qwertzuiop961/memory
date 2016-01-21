@@ -1,2 +1,5 @@
 # memory
-MEMORY!!!!!!!!!!!!!!!!
+ MEMORY!!!!!!!!!!!!!!!!
+ start:
+ cd memory
+ java MemoryGame
